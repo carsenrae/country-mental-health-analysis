@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("C:/Users/Carsen Rae Helms/OneDrive/Desktop from Surface Pro/Portfolio/Global MH Disorder Trends/data/processed/top3_depression_trend.csv")
+df = pd.read_csv("C:/Users/Carsen Rae Helms/OneDrive/Desktop from Surface Pro/Portfolio/Global Depression Trends/data/processed/top3_depression_trend.csv")
 
 
 df.columns = df.columns.str.strip()
@@ -30,5 +30,5 @@ plt.legend()
 plt.grid(alpha=0.3)
 
 plt.tight_layout()
-plt.savefig("../images/depression_trends_top3.png", dpi=300)
+plt.savefig("../images/depression_trends_top_countries.png", dpi=300)
 plt.show()
