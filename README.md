@@ -24,7 +24,7 @@ A global comparison shows Greenland, Morocco, and Lesotho among the highest-rank
 
 ### Depression Trends Over Time (Top Countries)
 
-![Trend Chart](images/depression_trends_top3.png)
+![Trend Chart](images/depression_trends_top_countries.png)
 
 Greenland maintains consistently elevated depression rates across all years. Morocco peaks in the early 2000s before declining, while Lesotho shows a steady upward trend over time.
 
